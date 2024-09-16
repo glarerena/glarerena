@@ -1,4 +1,5 @@
 - 👋 Hi, my name is Rena Glare
+- 🖥️ You can see my new portfolio @ https://renaglare.dev/
 - 👀 I’m interested in coding, cars, movies, music and gardening.
 - 🌱 I’m currently learning about custom domains, and Python.
 - 💞️ I’m looking to collaborate on sensory web development issues.
