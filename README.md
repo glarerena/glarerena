@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Rena Glare
 
-🎓 I'm a software engineering with Columbia University's **Justice Through Code (JTC)** Flagship Program.
+🎓 I'm a software engineering student with Columbia University's **Justice Through Code (JTC)** Flagship Program.
 💡 I'm focused on building full-stack web apps, Python-based APIs, and contributing to open source.
 
 ---
